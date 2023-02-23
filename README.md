@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning apache for data engineering and react for frontend development.
 - 👯 I’m looking to collaborate on react, react-native framework or python ,scala projects 
 - 🤔 I’m looking for help with data engineering (apache)
-- 💬 Ask me about web development and data egineering and also about new tech.
-<!-- - 📫 How to reach me: -->
+- 💬 Ask me about web development (react, react native, js, css, nextjs) and data egineering and also about new tech.
+- 📫 How to reach me: connnec with me on <a href="https://www.linkedin.com/in/akshaykumark603/">LinkedIn</a>.
